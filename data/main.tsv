@@ -1,0 +1,288 @@
+expt	animal	cage	cc	sex	dob	inoculation_date	death_date	prion_endpoint	acm	endpoint_comments	acm_comments	dpi
+A	AA1	AA	83580	F	2021-02-15	2021-03-26	2021-09-13	FALSE	TRUE	found dead	counted in all-cause	171
+A	AA2	AA	83580	F	2021-02-15	2021-03-26	2021-09-20	TRUE	TRUE	prion endpoint	counted in all-cause	178
+A	AA3	AA	83580	F	2021-02-15	2021-03-26	2021-09-15	TRUE	TRUE	prion endpoint	counted in all-cause	173
+A	AA4	AA	83580	F	2021-02-15	2021-03-26	2021-09-05	FALSE	TRUE	found dead	counted in all-cause	163
+A	AB1	AB	83581	F	2021-02-15	2021-03-26	2021-09-08	TRUE	TRUE	prion endpoint	counted in all-cause	166
+A	AB2	AB	83581	F	2021-02-15	2021-03-26	2021-09-01	TRUE	TRUE	prion endpoint	counted in all-cause	159
+A	AB3	AB	83581	F	2021-02-15	2021-03-26	2021-09-01	TRUE	TRUE	prion endpoint	counted in all-cause	159
+A	AB4	AB	83581	F	2021-02-15	2021-03-26	2021-09-06	TRUE	TRUE	prion endpoint	counted in all-cause	164
+A	AC1	AC	83582	F	2021-02-15	2021-03-26	2022-03-23	FALSE	TRUE	found dead	counted in all-cause	362
+A	AC2	AC	83582	F	2021-02-15	2021-03-26	2022-08-08	FALSE	FALSE	end of study	scheduled euthanasia	500
+A	AC3	AC	83582	F	2021-02-15	2021-03-26	2022-03-31	FALSE	TRUE	dermatitis	counted in all-cause	370
+A	AC4	AC	83582	F	2021-02-15	2021-03-26	2022-08-08	FALSE	FALSE	end of study	scheduled euthanasia	500
+A	AD1	AD	83583	F	2021-02-15	2021-03-26	2022-08-03	FALSE	FALSE	surgical complications	within 24h of surgery	495
+A	AD2	AD	83583	F	2021-02-15	2021-03-26	2022-08-08	FALSE	FALSE	end of study	scheduled euthanasia	500
+A	AD3	AD	83583	F	2021-02-15	2021-03-26	2022-05-20	FALSE	TRUE	found dead	counted in all-cause	420
+A	AD4	AD	83583	F	2021-02-15	2021-03-26	2021-06-24	FALSE	FALSE	surgical complications	within 24h of surgery	90
+A	AE1	AE	83584	F	2021-02-15	2021-03-26	2021-09-13	TRUE	TRUE	prion endpoint	counted in all-cause	171
+A	AE2	AE	83584	F	2021-02-15	2021-03-26	2021-08-27	FALSE	TRUE	urine scalding	counted in all-cause	154
+A	AE3	AE	83584	F	2021-02-15	2021-03-26	2021-09-08	TRUE	TRUE	prion endpoint	counted in all-cause	166
+A	AE4	AE	83584	F	2021-02-15	2021-03-26	2021-05-28	FALSE	TRUE	found dead	counted in all-cause	63
+A	AF1	AF	83585	F	2021-02-15	2021-03-26	2021-08-27	FALSE	TRUE	urine scalding	counted in all-cause	154
+A	AF2	AF	83585	F	2021-02-15	2021-03-26	2021-08-02	FALSE	TRUE	found dead	counted in all-cause	129
+A	AF3	AF	83585	F	2021-02-15	2021-03-26	2021-09-01	TRUE	TRUE	prion endpoint	counted in all-cause	159
+A	AF4	AF	83585	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AG1	AG	83586	F	2021-02-15	2021-03-26	2021-08-27	TRUE	TRUE	prion endpoint	counted in all-cause	154
+A	AG2	AG	83586	F	2021-02-15	2021-03-26	2021-09-03	TRUE	TRUE	prion endpoint	counted in all-cause	161
+A	AG3	AG	83586	F	2021-02-15	2021-03-26	2021-09-10	TRUE	TRUE	found dead	counted in all-cause	168
+A	AG4	AG	83586	F	2021-02-15	2021-03-26	2021-09-13	TRUE	TRUE	prion endpoint	counted in all-cause	171
+A	AH1	AH	83587	F	2021-02-15	2021-03-26	2021-09-06	TRUE	TRUE	prion endpoint	counted in all-cause	164
+A	AH2	AH	83587	F	2021-02-15	2021-03-26	2021-09-15	TRUE	TRUE	prion endpoint	counted in all-cause	173
+A	AH3	AH	83587	F	2021-02-15	2021-03-26	2021-09-10	TRUE	TRUE	found dead	counted in all-cause	168
+A	AH4	AH	83587	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AI1	AI	83588	F	2021-02-15	2021-03-26	2021-05-19	FALSE	TRUE	found dead	counted in all-cause	54
+A	AI2	AI	83588	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AI3	AI	83588	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AI4	AI	83588	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AJ1	AJ	83589	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AJ2	AJ	83589	F	2021-02-15	2021-03-26	2021-09-22	TRUE	TRUE	prion endpoint	counted in all-cause	180
+A	AJ3	AJ	83589	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AJ4	AJ	83589	F	2021-02-15	2021-03-26	2021-09-01	TRUE	TRUE	prion endpoint	counted in all-cause	159
+A	AK1	AK	83590	F	2021-02-15	2021-03-26	2021-10-20	FALSE	TRUE	found dead	counted in all-cause	208
+A	AK2	AK	83590	F	2021-02-15	2021-03-26	2021-08-13	FALSE	FALSE	surgical complications	within 24h of surgery	140
+A	AK3	AK	83590	F	2021-02-15	2021-03-26	2021-09-08	TRUE	TRUE	other	counted in all-cause	166
+A	AK4	AK	83590	F	2021-02-15	2021-03-26	2021-09-16	FALSE	FALSE	surgical complications	within 24h of surgery	174
+A	AL1	AL	83591	F	2021-02-15	2021-03-26	2021-08-30	FALSE	TRUE	found dead	counted in all-cause	157
+A	AL2	AL	83591	F	2021-02-15	2021-03-26	2021-09-05	TRUE	TRUE	prion endpoint	counted in all-cause	163
+A	AL3	AL	83591	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AL4	AL	83591	F	2021-02-15	2021-03-26	2021-08-30	FALSE	TRUE	found dead	counted in all-cause	157
+A	AM1	AM	83592	F	2021-02-15	2021-03-26	2021-09-20	FALSE	TRUE	found dead	counted in all-cause	178
+A	AM2	AM	83592	F	2021-02-15	2021-03-26	2021-09-03	FALSE	TRUE	found dead	counted in all-cause	161
+A	AM3	AM	83592	F	2021-02-15	2021-03-26	2021-09-13	TRUE	TRUE	prion endpoint	counted in all-cause	171
+A	AM4	AM	83592	F	2021-02-15	2021-03-26	2021-08-27	TRUE	TRUE	prion endpoint	counted in all-cause	154
+A	AN1	AN	83593	F	2021-02-15	2021-03-26	2021-09-15	TRUE	TRUE	prion endpoint	counted in all-cause	173
+A	AN2	AN	83593	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AN3	AN	83593	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AN4	AN	83593	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AO1	AO	83594	F	2021-02-15	2021-03-26	2021-09-10	TRUE	TRUE 	prion endpoint	counted in all-cause	168
+A	AO2	AO	83594	F	2021-02-15	2021-03-26	2021-09-08	TRUE	TRUE	prion endpoint	counted in all-cause	166
+A	AO3	AO	83594	F	2021-02-15	2021-03-26	2021-08-30	TRUE	TRUE	prion endpoint	counted in all-cause	157
+A	AO4	AO	83594	F	2021-02-15	2021-03-26	2021-09-08	TRUE	TRUE	prion endpoint	counted in all-cause	166
+A	AP1	AP	83595	F	2021-02-15	2021-03-26	2021-12-01	FALSE	TRUE	dermatitis	counted in all-cause	250
+A	AP2	AP	83595	F	2021-02-15	2021-03-26	2022-03-11	FALSE	TRUE	found dead	counted in all-cause	350
+A	AP3	AP	83595	F	2021-02-16	2021-03-26	2022-08-08	FALSE	FALSE	end of study	scheduled euthanasia	500
+A	AP4	AP	83595	F	2021-02-16	2021-03-26	2022-08-08	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFA1	AFA	126102	F	2023-11-05	2023-12-19	2025-03-11	FALSE	FALSE	surgical complications	within 24h of surgery	448
+AF	AFA2	AFA	126102	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFA3	AFA	126102	F	2023-11-05	2023-12-19	2025-03-13	FALSE	TRUE	dermatitis	counted in all-cause	450
+AF	AFA4	AFA	126102	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFB1	AFB	126103	F	2023-11-05	2023-12-19	2025-03-11	FALSE	FALSE	surgical complications	within 24h of surgery	448
+AF	AFB2	AFB	126103	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFB3	AFB	126103	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFB4	AFB	126103	F	2023-11-05	2023-12-19	2024-06-25	FALSE	FALSE	surgical complications	within 24h of surgery	189
+AF	AFC1	AFC	126104	F	2023-11-05	2023-12-19	2023-12-19	FALSE	FALSE	surgical complications	within 24h of surgery	0
+AF	AFC2	AFC	126104	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFC3	AFC	126104	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFC4	AFC	126104	F	2023-11-05	2023-12-19	2025-05-02	FALSE	FALSE	end of study	scheduled euthanasia	500
+AF	AFD1	AFD	126105	F	2023-11-05	2023-12-19	2024-07-03	FALSE	TRUE	found dead	counted in all-cause	197
+AF	AFD2	AFD	126105	F	2023-11-05	2023-12-19	2024-06-20	FALSE	TRUE	found dead	counted in all-cause	184
+AF	AFD3	AFD	126105	F	2023-11-05	2023-12-19	2024-05-27	FALSE	TRUE	found dead	counted in all-cause	160
+AF	AFD4	AFD	126105	F	2023-11-05	2023-12-19	2024-06-17	FALSE	TRUE	found dead	counted in all-cause	181
+AF	AFE1	AFE	126106	F	2023-11-05	2023-12-19	2024-07-16	FALSE	TRUE	found dead	counted in all-cause	210
+AF	AFE2	AFE	126106	F	2023-11-05	2023-12-19	2024-06-28	FALSE	TRUE	found dead	counted in all-cause	192
+AF	AFE3	AFE	126106	F	2023-11-05	2023-12-19	2024-06-10	FALSE	TRUE	found dead	counted in all-cause	174
+AF	AFE4	AFE	126106	F	2023-11-05	2023-12-19	2024-06-25	FALSE	TRUE	found dead	counted in all-cause	189
+AF	AFF1	AFF	126107	F	2023-11-05	2023-12-19	2024-06-17	FALSE	TRUE	found dead	counted in all-cause	181
+AF	AFF2	AFF	126107	F	2023-11-05	2023-12-19	2024-06-10	FALSE	TRUE	found dead	counted in all-cause	174
+AF	AFF3	AFF	126107	F	2023-11-05	2023-12-19	2023-12-19	FALSE	TRUE	surgical complications	within 24h of surgery	0
+AF	AFF4	AFF	126107	F	2023-11-05	2023-12-19	2024-01-27	FALSE	TRUE	found dead	counted in all-cause	39
+AF	AFG3	AFG	125135	M	2023-10-18	2023-12-19	2024-09-17	FALSE	TRUE	found dead	counted in all-cause	273
+AF	AFH5	AFH	125456	F	2023-11-05	2023-12-19	2023-12-19	FALSE	FALSE	surgical complications	within 24h of surgery	0
+AF	AFI1	AFI	125457	M	2023-11-05	2023-12-19	2024-10-31	TRUE	TRUE	prion endpoint	counted in all-cause	317
+AF	AFI4	AFI	125457	M	2023-11-05	2023-12-19	2024-08-29	FALSE	TRUE	found dead	counted in all-cause	254
+AF	AFJ1	AFJ	125112	F	2023-11-05	2023-12-19	2024-09-12	FALSE	TRUE	found dead	counted in all-cause	268
+AF	AFJ4	AFJ	125112	F	2023-11-05	2023-12-19	2024-11-05	FALSE	TRUE	found dead	counted in all-cause	322
+AF	AFK3	AFK	125458	M	2023-11-05	2023-12-19	2024-09-12	FALSE	TRUE	found dead	counted in all-cause	268
+AF	AFL4	AFL	125459	M	2023-11-05	2023-12-19	2024-10-01	TRUE	TRUE	prion endpoint	counted in all-cause	287
+AF	AFM2	AFM	125460	F	2023-11-05	2023-12-19	2023-12-19	FALSE	FALSE	surgical complications	within 24h of surgery	0
+AR	ARA1	ARA	138938	F	2024-06-04	2024-07-16	2024-09-16	FALSE	FALSE	timed sac	scheduled euthanasia	62
+AR	ARA2	ARA	138938	F	2024-06-04	2024-07-16	2024-09-16	FALSE	FALSE	timed sac	scheduled euthanasia	62
+AR	ARA3	ARA	138938	F	2024-06-04	2024-07-16	2024-07-16	FALSE	FALSE	surgical complications	within 24h of surgery	0
+AR	ARA4	ARA	138938	F	2024-06-04	2024-07-16	2024-09-16	FALSE	FALSE	timed sac	scheduled euthanasia	62
+AR	ARA5	ARA	138938	F	2024-06-04	2024-07-16	2024-09-16	FALSE	FALSE	timed sac	scheduled euthanasia	62
+AR	ARB1	ARB	138939	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARB2	ARB	138939	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARB3	ARB	138939	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARB4	ARB	138939	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARB5	ARB	138939	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARC1	ARC	138940	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARC2	ARC	138940	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARC3	ARC	138940	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARC4	ARC	138940	F	2024-06-04	2024-07-16	2024-10-15	FALSE	TRUE	found dead	counted in all-cause	91
+AR	ARC5	ARC	138940	F	2024-06-04	2024-07-16	2024-11-14	FALSE	FALSE	timed sac	scheduled euthanasia	121
+AR	ARD1	ARD	138941	F	2024-06-04	2024-07-16	2025-02-11	FALSE	FALSE	timed sac	scheduled euthanasia	210
+AR	ARD2	ARD	138941	F	2024-06-04	2024-07-16	2025-02-11	FALSE	FALSE	timed sac	scheduled euthanasia	210
+AR	ARD3	ARD	138941	F	2024-06-04	2024-07-16	2025-02-11	FALSE	FALSE	timed sac	scheduled euthanasia	210
+AR	ARD4	ARD	138941	F	2024-06-04	2024-07-16	2025-02-11	FALSE	FALSE	timed sac	scheduled euthanasia	210
+AR	ARD5	ARD	138941	F	2024-06-04	2024-07-16	2025-02-11	FALSE	FALSE	timed sac	scheduled euthanasia	210
+QS	QSA1	QSA	161352	F	2025-05-27	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSA2	QSA	161352	F	2025-05-27	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSA3	QSA	161352	F	2025-05-27	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSB1	QSB	161354	M	2025-05-27	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSB2	QSB	161354	M	2025-05-27	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSC1	QSC	163198	F	2025-06-06	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSD1	QSD	163199	M	2025-06-06	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSE1	QSE	163200	F	2025-06-07	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSE2	QSE	163200	F	2025-06-07	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSE3	QSE	163200	F	2025-06-07	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSE4	QSE	163200	F	2025-06-07	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSF1	QSF	163201	M	2025-06-07	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSF2	QSF	163201	M	2025-06-07	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSF3	QSF	163201	M	2025-06-07	2025-07-29	2025-08-07	FALSE	TRUE	found dead	counted in all-cause	9
+QS	QSF4	QSF	163201	M	2025-06-07	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSG1	QSG	163204	F	2025-06-08	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSG2	QSG	163204	F	2025-06-08	2025-07-29	2026-03-26	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSH1	QSH	163205	M	2025-06-08	2025-07-29	2026-03-26	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSH2	QSH	163205	M	2025-06-08	2025-07-29	2026-03-26	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSH3	QSH	163205	M	2025-06-08	2025-07-29	2026-03-26	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSI1	QSI	163206	F	2025-06-08	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSI2	QSI	163206	F	2025-06-08	2025-08-05	2025-08-05	FALSE	FALSE	surgical complications	within 24h of surgery	0
+QS	QSI3	QSI	163206	F	2025-06-08	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSI4	QSI	163206	F	2025-06-08	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSJ1	QSJ	163207	M	2025-06-08	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSJ2	QSJ	163207	M	2025-06-08	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSJ3	QSJ	163207	M	2025-06-08	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSK1	QSK1	163216	M	2025-06-11	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSK2	QSK2	170200	M	2025-06-11	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSK3	QSK	163216	M	2025-06-11	2025-08-05	2025-08-05	FALSE	FALSE	surgical complications	within 24h of surgery	0
+QS	QSK4	QSK4	170201	M	2025-06-11	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSL1	QSL	163223	M	2025-06-15	2025-08-05	2026-04-02	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSL2	QSL	163223	M	2025-06-15	2025-08-05	2026-04-02	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSL3	QSL	163223	M	2025-06-15	2025-08-05	2026-04-02	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSL4	QSL	163223	M	2025-06-15	2025-08-05	2026-04-02	FALSE	FALSE	timed sac	scheduled euthanasia	240
+QS	QSL5	QSL	163223	M	2025-06-15	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSM1	QSM	164007	F	2025-06-15	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSM2	QSM	164007	F	2025-06-15	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSM3	QSM	164007	F	2025-06-15	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSM4	QSM	164007	F	2025-06-15	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSM5	QSM	164007	F	2025-06-15	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSN1	QSN	164008	M	2025-06-06	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSO1	QSO	165259	M	2025-06-12	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSO2	QSO	165259	M	2025-06-12	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSP1	QSP	165260	M	2025-06-12	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSP2	QSP	170202	M	2025-06-12	2025-07-29	2025-09-25	FALSE	TRUE	found dead	counted in all-cause	58
+QS	QSP3	QSP	170203	M	2025-06-12	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSQ1	QSQ	165261	M	2025-06-12	2025-07-29	2025-11-17	FALSE	TRUE	found dead	counted in all-cause	111
+QS	QSQ2	QSQ	165261	M	2025-06-12	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSQ3	QSQ	165261	M	2025-06-12	2025-07-29	2025-11-18	FALSE	TRUE	other	counted in all-cause	112
+QS	QSQ4	QSQ	170206	M	2025-06-12	2025-07-29	2025-11-25	FALSE	FALSE	timed sac	scheduled euthanasia	119
+QS	QSR1	QSR1	165262	M	2025-06-12	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSR2	QSR	165262	M	2025-06-12	2025-08-05	2025-08-21	FALSE	TRUE	other	counted in all-cause	16
+QS	QSR3	QSR3	170204	M	2025-06-12	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSR4	QSR4	170205	M	2025-06-12	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSS1	QSS	165263	M	2025-06-12	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSS2	QSS	165263	M	2025-06-12	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSS3	QSS	165263	M	2025-06-12	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QSS4	QSS	165263	M	2025-06-12	2025-08-05	2025-12-03	FALSE	FALSE	timed sac	scheduled euthanasia	120
+QS	QST1	QST	165264	F	2025-06-12	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QST2	QST	165264	F	2025-06-12	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QST3	QST	165264	F	2025-06-12	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QST4	QST	165264	F	2025-06-12	2025-07-29	2025-10-27	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QST5	QST	165264	F	2025-06-12	2025-07-29	2025-09-26	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSU1	QSU	165265	F	2025-06-12	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSU2	QSU	165265	F	2025-06-12	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSU3	QSU	165265	F	2025-06-12	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSU4	QSU	165265	F	2025-06-12	2025-07-29	2025-12-26	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSV1	QSV	165266	F	2025-06-12	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSV2	QSV	165266	F	2025-06-12	2025-08-05	2025-10-03	FALSE	FALSE	timed sac	scheduled euthanasia	59
+QS	QSV3	QSV	165266	F	2025-06-12	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSV4	QSV	165266	F	2025-06-12	2025-08-05	2025-11-03	FALSE	FALSE	timed sac	scheduled euthanasia	90
+QS	QSW1	QSW	165267	F	2025-06-12	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSW2	QSW	165267	F	2025-06-12	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSW3	QSW	165267	F	2025-06-12	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+QS	QSW4	QSW	165267	F	2025-06-12	2025-08-05	2026-01-02	FALSE	FALSE	timed sac	scheduled euthanasia	150
+YA	YAA1	YAA	85680	F	2021-04-05	2021-05-13	2022-03-18	FALSE	TRUE	found dead	counted in all-cause	309
+YA	YAA2	YAA	85680	F	2021-04-05	2021-05-13	2022-02-14	TRUE	TRUE	prion endpoint	counted in all-cause	277
+YA	YAA3	YAA	85680	F	2021-04-05	2021-05-13	2022-04-11	TRUE	TRUE	prion endpoint	counted in all-cause	333
+YA	YAA4	YAA	85680	F	2021-04-05	2021-05-13	2022-04-08	FALSE	TRUE	found dead	counted in all-cause	330
+YA	YAB1	YAB	85681	F	2021-04-05	2021-05-13	2022-09-30	TRUE	TRUE	prion endpoint	counted in all-cause	505
+YA	YAB2	YAB	85681	F	2021-04-05	2021-05-13	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	508
+YA	YAB3	YAB	85681	F	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAB4	YAB	85681	F	2021-04-05	2021-05-13	2021-10-20	TRUE	TRUE	prion endpoint	counted in all-cause	160
+YA	YAC1	YAC	85682	F	2021-04-05	2021-05-13	2022-01-07	FALSE	TRUE	other	counted in all-cause	239
+YA	YAC2	YAC	85682	F	2021-04-05	2021-05-13	2022-03-15	FALSE	TRUE	found dead	counted in all-cause	306
+YA	YAC3	YAC	85682	F	2021-04-05	2021-05-13	2022-05-16	TRUE	TRUE	prion endpoint	counted in all-cause	368
+YA	YAC4	YAC	85682	F	2021-04-05	2021-05-13	2022-05-23	TRUE	TRUE	prion endpoint	counted in all-cause	375
+YA	YAD1	YAD	85683	F	2021-04-05	2021-05-13	2022-08-12	TRUE	TRUE 	prion endpoint	counted in all-cause	456
+YA	YAD2	YAD	85683	F	2021-04-05	2021-05-13	2022-04-11	FALSE	TRUE	found dead	counted in all-cause	333
+YA	YAD3	YAD	85683	F	2021-04-05	2021-05-13	2022-09-07	TRUE	TRUE	prion endpoint	counted in all-cause	482
+YA	YAD4	YAD	85683	F	2021-04-05	2021-05-13	2021-10-13	TRUE	TRUE	prion endpoint	counted in all-cause	153
+YA	YAE1	YAE	85684	F	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAE2	YAE	85684	F	2021-04-05	2021-05-13	2022-05-06	TRUE	TRUE	prion endpoint	counted in all-cause	358
+YA	YAE3	YAE	85684	F	2021-04-05	2021-05-13	2022-03-25	TRUE	TRUE	prion endpoint	counted in all-cause	316
+YA	YAE4	YAE	85684	F	2021-04-05	2021-05-13	2022-06-15	TRUE	TRUE	prion endpoint	counted in all-cause	398
+YA	YAF1	YAF	85685	F	2021-04-05	2021-05-13	2021-10-04	TRUE	TRUE	prion endpoint	counted in all-cause	144
+YA	YAF2	YAF	85685	F	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAF3	YAF	85685	F	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAF4	YAF	85685	F	2021-04-05	2021-05-13	2021-05-19	TRUE	FALSE	prion endpoint	prior to group assignment	6
+YA	YAG1	YAG	85686	F	2021-04-05	2021-05-18	2022-08-17	FALSE	TRUE	found dead	counted in all-cause	456
+YA	YAG2	YAG	85686	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAG3	YAG	85686	F	2021-04-05	2021-05-18	2022-09-01	FALSE	TRUE	found dead	counted in all-cause	471
+YA	YAG4	YAG	85686	F	2021-04-05	2021-05-18	2022-06-29	FALSE	TRUE	found dead	counted in all-cause	407
+YA	YAH1	YAH	85687	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAH2	YAH	85687	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAH3	YAH	85687	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAH4	YAH	85687	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAI1	YAI	85688	F	2021-04-05	2021-05-18	2021-11-08	FALSE	TRUE	other	counted in all-cause	174
+YA	YAI2	YAI	85688	F	2021-04-05	2021-05-18	2021-10-08	TRUE	TRUE	prion endpoint	counted in all-cause	143
+YA	YAI3	YAI	85688	F	2021-04-05	2021-05-18	2022-04-21	FALSE	FALSE	surgical complications	within 24h of surgery	338
+YA	YAI4	YAI	85688	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAJ1	YAJ	85689	F	2021-04-05	2021-05-18	2021-05-18	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAJ2	YAJ	85689	F	2021-04-05	2021-05-18	2021-10-22	TRUE	TRUE	prion endpoint	counted in all-cause	157
+YA	YAJ3	YAJ	85689	F	2021-04-05	2021-05-18	2021-10-20	TRUE	TRUE	prion endpoint	counted in all-cause	155
+YA	YAJ4	YAJ	85689	F	2021-04-05	2021-05-18	2021-10-20	TRUE	TRUE	prion endpoint	counted in all-cause	155
+YA	YAK1	YAK	85690	F	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAK2	YAK	85690	F	2021-04-05	2021-05-18	2022-01-24	FALSE	TRUE	found dead	counted in all-cause	251
+YA	YAK3	YAK	85690	F	2021-04-05	2021-05-18	2021-11-15	FALSE	TRUE	other	counted in all-cause	181
+YA	YAK4	YAK	85690	F	2021-04-05	2021-05-18	2021-10-22	FALSE	TRUE	prion endpoint	counted in all-cause	157
+YA	YAL1	YAL1	85691	M	2021-04-05	2021-05-13	2022-03-09	FALSE	TRUE	found dead	counted in all-cause	300
+YA	YAL2	YAL2	85691	M	2021-04-05	2021-05-13	2021-12-06	TRUE	TRUE	prion endpoint	counted in all-cause	207
+YA	YAL3	YAL3	85691	M	2021-04-05	2021-05-13	2022-06-15	FALSE	TRUE	found dead	counted in all-cause	398
+YA	YAL4	YAL	85691	M	2021-04-05	2021-05-13	2021-07-27	FALSE	FALSE	other	counted in all-cause	75
+YA	YAM1	YAM	85692	M	2021-04-05	2021-05-13	2022-01-17	TRUE	TRUE	prion endpoint	counted in all-cause	249
+YA	YAM2	YAM	85692	M	2021-04-05	2021-05-13	2021-06-04	FALSE	FALSE	found dead	counted in all-cause	22
+YA	YAM3	YAM	85692	M	2021-04-05	2021-05-13	2021-08-17	FALSE	FALSE	found dead	counted in all-cause	96
+YA	YAM4	YAM	85692	M	2021-04-05	2021-05-13	2021-07-26	FALSE	FALSE	found dead	prior to group assignment	74
+YA	YAN1	YAN	85693	M	2021-04-05	2021-05-13	2021-09-13	FALSE	FALSE	found dead	counted in all-cause	123
+YA	YAN2	YAN	85693	M	2021-04-05	2021-05-13	2022-04-25	TRUE	TRUE	prion endpoint	counted in all-cause	347
+YA	YAN3	YAN	85693	M	2021-04-05	2021-05-13	2021-10-06	FALSE	TRUE	found dead	counted in all-cause	146
+YA	YAN4	YAN	85693	M	2021-04-05	2021-05-13	2022-04-25	TRUE	TRUE	prion endpoint	counted in all-cause	347
+YA	YAO1	YAO	85694	M	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAO2	YAO	85694	M	2021-04-05	2021-05-13	2021-08-03	FALSE	FALSE	other	counted in all-cause	82
+YA	YAO3	YAO	85694	M	2021-04-05	2021-05-13	2022-06-29	TRUE	TRUE	prion endpoint	counted in all-cause	412
+YA	YAO4	YAO	85694	M	2021-04-05	2021-05-13	2021-05-13	FALSE	FALSE	other	prior to group assignment	0
+YA	YAP1	YAP	85695	M	2021-04-05	2021-05-13	2022-03-18	TRUE	TRUE	prion endpoint	counted in all-cause	309
+YA	YAP2	YAP	85695	M	2021-04-05	2021-05-13	2022-05-18	TRUE	TRUE	prion endpoint	counted in all-cause	370
+YA	YAP3	YAP	85695	M	2021-04-05	2021-05-13	2022-05-20	TRUE	TRUE	prion endpoint	counted in all-cause	372
+YA	YAP4	YAP	85695	M	2021-04-05	2021-05-13	2022-02-10	FALSE	TRUE	found dead	counted in all-cause	273
+YA	YAQ1	YAQ	85696	M	2021-04-05	2021-05-13	2022-04-11	TRUE	TRUE	prion endpoint	counted in all-cause	333
+YA	YAQ2	YAQ	85696	M	2021-04-05	2021-05-13	2021-10-18	TRUE	TRUE	prion endpoint	counted in all-cause	158
+YA	YAQ3	YAQ	85696	M	2021-04-05	2021-05-18	2021-09-20	FALSE	FALSE	other	counted in all-cause	125
+YA	YAQ4	YAQ	85696	M	2021-04-05	2021-05-18	2021-09-23	FALSE	TRUE	prion endpoint	counted in all-cause	128
+YA	YAR1	YAR	85697	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAR2	YAR	85697	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAR3	YAR	85697	M	2021-04-05	2021-05-18	2021-09-10	FALSE	FALSE	other	counted in all-cause	115
+YA	YAR4	YAR	85697	M	2021-04-05	2021-05-18	2022-09-23	FALSE	TRUE	dermatitis	counted in all-cause	493
+YA	YAS1	YAS	85698	M	2021-04-05	2021-05-18	2021-07-01	FALSE	FALSE	found dead	counted in all-cause	44
+YA	YAS2	YAS	85698	M	2021-04-05	2021-05-18	2021-07-01	FALSE	FALSE	found dead	counted in all-cause	44
+YA	YAS3	YAS	85698	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAS4	YAS	85698	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAT1	YAT	85699	M	2021-04-05	2021-05-18	2022-01-21	FALSE	TRUE	prion endpoint	counted in all-cause	248
+YA	YAT2	YAT	85699	M	2021-04-05	2021-05-18	2021-05-18	FALSE	FALSE	surgical complications	within 24h of surgery	0
+YA	YAT3	YAT	85699	M	2021-04-05	2021-05-18	2022-01-26	FALSE	TRUE	prion endpoint	counted in all-cause	253
+YA	YAT4	YAT	85699	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAU1	YAU	85700	M	2021-04-05	2021-05-18	2021-10-25	TRUE	TRUE	prion endpoint	counted in all-cause	160
+YA	YAU2	YAU	85700	M	2021-04-05	2021-05-18	2021-05-26	FALSE	FALSE	other	counted in all-cause	8
+YA	YAU3	YAU	85700	M	2021-04-05	2021-05-18	2021-09-15	FALSE	FALSE	other	counted in all-cause	120
+YA	YAU4	YAU	85700	M	2021-04-05	2021-05-18	2021-05-18	FALSE	FALSE	found dead	prior to group assignment	0
+YA	YAV1	YAV	85701	M	2021-04-05	2021-05-18	2022-10-03	FALSE	FALSE	end of study	scheduled euthanasia	503
+YA	YAV2	YAV	85701	M	2021-04-05	2021-05-18	2021-09-05	FALSE	TRUE	found dead	counted in all-cause	110
+YA	YAV3	YAV	85701	M	2021-04-05	2021-05-18	2021-05-19	FALSE	FALSE	other	counted in all-cause	1
+YA	YAV4	YAV	85701	M	2021-04-05	2021-05-18	2021-05-18	FALSE	FALSE	surgical complications	within 24h of surgery	0
+S	SEZ1	SEZ	NA	F	NA	2018-01-24	2018-06-27	TRUE	TRUE	five symptoms	counted in all-cause	154
+S	SEZ2	SEZ	NA	F	NA	2018-01-24	2018-06-29	TRUE	TRUE	five symptoms	counted in all-cause	156
+S	SEZ3	SEZ	NA	F	NA	2018-01-24	2018-06-27	TRUE	TRUE	five symptoms	counted in all-cause	154
+S	SGZ1	SGZ	NA	F	NA	2018-01-24	2018-07-06	TRUE	TRUE	five symptoms	counted in all-cause	163
+S	SGZ3	SGZ	NA	F	NA	2018-01-24	2018-07-06	TRUE	TRUE	five symptoms	counted in all-cause	163
+S	SGZ4	SGZ	NA	F	NA	2018-01-24	2018-07-06	TRUE	TRUE	five symptoms	counted in all-cause	163

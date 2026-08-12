@@ -1,0 +1,209 @@
+species	animal_id	days_post_dose	tissue	analyte	dose_mg	residual
+NHP	1501	0	CSF	protein	0	1
+NHP	1502	0	CSF	protein	0	1
+NHP	1503	0	CSF	protein	0	1
+NHP	2501	0	CSF	protein	10	1
+NHP	2502	0	CSF	protein	10	1
+NHP	2503	0	CSF	protein	10	1
+NHP	2504	0	CSF	protein	10	1
+NHP	2505	0	CSF	protein	10	1
+NHP	3502	0	CSF	protein	60	1
+NHP	3503	0	CSF	protein	60	1
+NHP	3504	0	CSF	protein	60	1
+NHP	3505	0	CSF	protein	60	1
+NHP	1501	15	CSF	protein	0	1.010755
+NHP	1502	15	CSF	protein	0	0.932619
+NHP	1503	15	CSF	protein	0	0.950999
+NHP	2501	15	CSF	protein	10	0.729056
+NHP	2502	15	CSF	protein	10	0.834168
+NHP	2503	15	CSF	protein	10	0.8469
+NHP	2504	15	CSF	protein	10	0.58667
+NHP	2505	15	CSF	protein	10	0.716647
+NHP	3502	15	CSF	protein	60	0.420753
+NHP	3503	15	CSF	protein	60	0.551751
+NHP	3504	15	CSF	protein	60	0.338882
+NHP	3505	15	CSF	protein	60	0.530201
+NHP	1501	29	CSF	protein	0	0.949642
+NHP	1502	29	CSF	protein	0	0.877659
+NHP	1503	29	CSF	protein	0	0.874307
+NHP	2501	29	CSF	protein	10	0.526218
+NHP	2502	29	CSF	protein	10	0.666515
+NHP	2503	29	CSF	protein	10	0.961473
+NHP	2504	29	CSF	protein	10	0.470619
+NHP	2505	29	CSF	protein	10	0.559871
+NHP	3502	29	CSF	protein	60	0.347028
+NHP	3503	29	CSF	protein	60	0.40857
+NHP	3504	29	CSF	protein	60	0.194343
+NHP	3505	29	CSF	protein	60	0.32872
+NHP	1501	57	CSF	protein	0	0.72189
+NHP	1502	57	CSF	protein	0	0.923544
+NHP	1503	57	CSF	protein	0	0.873545
+NHP	2501	57	CSF	protein	10	0.540234
+NHP	2502	57	CSF	protein	10	NA
+NHP	2503	57	CSF	protein	10	0.570284
+NHP	2504	57	CSF	protein	10	0.451828
+NHP	2505	57	CSF	protein	10	0.471796
+NHP	3502	57	CSF	protein	60	0.248759
+NHP	3503	57	CSF	protein	60	0.228134
+NHP	3504	57	CSF	protein	60	0.161025
+NHP	3505	57	CSF	protein	60	0.21779
+NHP	1501	84	CSF	protein	0	0.863851
+NHP	1502	84	CSF	protein	0	1.34511
+NHP	1503	84	CSF	protein	0	0.837166
+NHP	2501	84	CSF	protein	10	0.442121
+NHP	2502	84	CSF	protein	10	0.36777
+NHP	2503	84	CSF	protein	10	0.411019
+NHP	2504	84	CSF	protein	10	0.484637
+NHP	2505	84	CSF	protein	10	0.4479
+NHP	3502	84	CSF	protein	60	0.233871
+NHP	3503	84	CSF	protein	60	0.215017
+NHP	3504	84	CSF	protein	60	0.146352
+NHP	3505	84	CSF	protein	60	0.268344
+NHP	1501	85	Prefrontal Cortex	mRNA	0	0.914317
+NHP	1502	85	Prefrontal Cortex	mRNA	0	0.937045
+NHP	1503	85	Prefrontal Cortex	mRNA	0	1.145872
+NHP	2501	85	Prefrontal Cortex	mRNA	10	0.133099
+NHP	2502	85	Prefrontal Cortex	mRNA	10	0.217703
+NHP	2503	85	Prefrontal Cortex	mRNA	10	0.120899
+NHP	2504	85	Prefrontal Cortex	mRNA	10	0.121541
+NHP	2505	85	Prefrontal Cortex	mRNA	10	0.171354
+NHP	3502	85	Prefrontal Cortex	mRNA	60	0.060621
+NHP	3503	85	Prefrontal Cortex	mRNA	60	0.050099
+NHP	3504	85	Prefrontal Cortex	mRNA	60	0.032211
+NHP	3505	85	Prefrontal Cortex	mRNA	60	0.062874
+NHP	1501	85	Hippocampus	mRNA	0	0.988983
+NHP	1502	85	Hippocampus	mRNA	0	0.959903
+NHP	1503	85	Hippocampus	mRNA	0	1.046108
+NHP	2501	85	Hippocampus	mRNA	10	0.333483
+NHP	2502	85	Hippocampus	mRNA	10	0.385437
+NHP	2503	85	Hippocampus	mRNA	10	0.96277
+NHP	2504	85	Hippocampus	mRNA	10	0.326647
+NHP	2505	85	Hippocampus	mRNA	10	0.354751
+NHP	3502	85	Hippocampus	mRNA	60	0.128279
+NHP	3503	85	Hippocampus	mRNA	60	0.148369
+NHP	3504	85	Hippocampus	mRNA	60	0.112683
+NHP	3505	85	Hippocampus	mRNA	60	0.15361
+NHP	1501	85	Thalamus	mRNA	0	0.963067
+NHP	1502	85	Thalamus	mRNA	0	0.934596
+NHP	1503	85	Thalamus	mRNA	0	1.101164
+NHP	2501	85	Thalamus	mRNA	10	0.600007
+NHP	2502	85	Thalamus	mRNA	10	0.700124
+NHP	2503	85	Thalamus	mRNA	10	0.580468
+NHP	2504	85	Thalamus	mRNA	10	0.700164
+NHP	2505	85	Thalamus	mRNA	10	0.770955
+NHP	3502	85	Thalamus	mRNA	60	0.407251
+NHP	3503	85	Thalamus	mRNA	60	0.345245
+NHP	3504	85	Thalamus	mRNA	60	0.204684
+NHP	3505	85	Thalamus	mRNA	60	0.527931
+NHP	1501	85	Hypothalamus	mRNA	0	1.012408
+NHP	1502	85	Hypothalamus	mRNA	0	0.948815
+NHP	1503	85	Hypothalamus	mRNA	0	1.037366
+NHP	2501	85	Hypothalamus	mRNA	10	0.318965
+NHP	2502	85	Hypothalamus	mRNA	10	0.333769
+NHP	2503	85	Hypothalamus	mRNA	10	0.508721
+NHP	2504	85	Hypothalamus	mRNA	10	0.351646
+NHP	2505	85	Hypothalamus	mRNA	10	0.551502
+NHP	3502	85	Hypothalamus	mRNA	60	0.272815
+NHP	3503	85	Hypothalamus	mRNA	60	0.213209
+NHP	3504	85	Hypothalamus	mRNA	60	0.145563
+NHP	3505	85	Hypothalamus	mRNA	60	0.446125
+NHP	1501	85	Prefrontal Cortex	protein	0	1.077543
+NHP	1502	85	Prefrontal Cortex	protein	0	0.940455
+NHP	1503	85	Prefrontal Cortex	protein	0	0.982002
+NHP	2501	85	Prefrontal Cortex	protein	10	0.119044
+NHP	2502	85	Prefrontal Cortex	protein	10	0.320058
+NHP	2503	85	Prefrontal Cortex	protein	10	0.149912
+NHP	2504	85	Prefrontal Cortex	protein	10	0.115842
+NHP	2505	85	Prefrontal Cortex	protein	10	0.214834
+NHP	3502	85	Prefrontal Cortex	protein	60	0.067042
+NHP	3503	85	Prefrontal Cortex	protein	60	0.052434
+NHP	3504	85	Prefrontal Cortex	protein	60	0.040207
+NHP	3505	85	Prefrontal Cortex	protein	60	0.081544
+NHP	1501	85	Hippocampus	protein	0	1.095946
+NHP	1502	85	Hippocampus	protein	0	0.860621
+NHP	1503	85	Hippocampus	protein	0	1.043434
+NHP	2501	85	Hippocampus	protein	10	0.164377
+NHP	2502	85	Hippocampus	protein	10	0.166974
+NHP	2503	85	Hippocampus	protein	10	0.619024
+NHP	2504	85	Hippocampus	protein	10	0.122045
+NHP	2505	85	Hippocampus	protein	10	0.207992
+NHP	3502	85	Hippocampus	protein	60	0.049806
+NHP	3503	85	Hippocampus	protein	60	0.037924
+NHP	3504	85	Hippocampus	protein	60	0.027493
+NHP	3505	85	Hippocampus	protein	60	0.049836
+NHP	1501	85	Thalamus	protein	0	1.17716
+NHP	1502	85	Thalamus	protein	0	0.928321
+NHP	1503	85	Thalamus	protein	0	0.894519
+NHP	2501	85	Thalamus	protein	10	0.360514
+NHP	2502	85	Thalamus	protein	10	0.686589
+NHP	2503	85	Thalamus	protein	10	0.489957
+NHP	2504	85	Thalamus	protein	10	0.403877
+NHP	2505	85	Thalamus	protein	10	0.488621
+NHP	3502	85	Thalamus	protein	60	0.277858
+NHP	3503	85	Thalamus	protein	60	0.153971
+NHP	3504	85	Thalamus	protein	60	0.142886
+NHP	3505	85	Thalamus	protein	60	0.272447
+NHP	1501	85	Hypothalamus	protein	0	0.806774
+NHP	1502	85	Hypothalamus	protein	0	1.019416
+NHP	1503	85	Hypothalamus	protein	0	1.17381
+NHP	2501	85	Hypothalamus	protein	10	0.291913
+NHP	2502	85	Hypothalamus	protein	10	0.397576
+NHP	2503	85	Hypothalamus	protein	10	0.400301
+NHP	2504	85	Hypothalamus	protein	10	0.35692
+NHP	2505	85	Hypothalamus	protein	10	0.563313
+NHP	3502	85	Hypothalamus	protein	60	0.233479
+NHP	3503	85	Hypothalamus	protein	60	0.097342
+NHP	3504	85	Hypothalamus	protein	60	0.114917
+NHP	3505	85	Hypothalamus	protein	60	0.295257
+transgenic mouse	1501_d28	28	brain	mRNA	0	0.9321
+transgenic mouse	1502_d28	28	brain	mRNA	0	1.032
+transgenic mouse	1503_d28	28	brain	mRNA	0	1.036
+transgenic mouse	2501_d28	28	brain	mRNA	0.3	0.039
+transgenic mouse	2502_d28	28	brain	mRNA	0.3	0.038
+transgenic mouse	2503_d28	28	brain	mRNA	0.3	0.034
+transgenic mouse	2504_d28	28	brain	mRNA	0.3	0.041
+transgenic mouse	3501_d28	28	brain	mRNA	0.15	0.0979
+transgenic mouse	3502_d28	28	brain	mRNA	0.15	0.1119
+transgenic mouse	3503_d28	28	brain	mRNA	0.15	0.1099
+transgenic mouse	3504_d28	28	brain	mRNA	0.15	0.0869
+transgenic mouse	4501_d28	28	brain	mRNA	0.075	0.1459
+transgenic mouse	4502_d28	28	brain	mRNA	0.075	0.1898
+transgenic mouse	4503_d28	28	brain	mRNA	0.075	0.1009
+transgenic mouse	4504_d28	28	brain	mRNA	0.075	0.2827
+transgenic mouse	5501_d28	28	brain	mRNA	0.0375	0.2567
+transgenic mouse	5502_d28	28	brain	mRNA	0.0375	0.6164
+transgenic mouse	5503_d28	28	brain	mRNA	0.0375	0.1978
+transgenic mouse	5504_d28	28	brain	mRNA	0.0375	0.1988
+transgenic mouse	1501_d28	28	brain	protein	0	0.9797
+transgenic mouse	1502_d28	28	brain	protein	0	1.0829
+transgenic mouse	1503_d28	28	brain	protein	0	0.9374
+transgenic mouse	2501_d28	28	brain	protein	0.3	0.0193
+transgenic mouse	2502_d28	28	brain	protein	0.3	0.0169
+transgenic mouse	2503_d28	28	brain	protein	0.3	0.0156
+transgenic mouse	2504_d28	28	brain	protein	0.3	0.0193
+transgenic mouse	3501_d28	28	brain	protein	0.15	0.0503
+transgenic mouse	3502_d28	28	brain	protein	0.15	0.0479
+transgenic mouse	3503_d28	28	brain	protein	0.15	0.0424
+transgenic mouse	3504_d28	28	brain	protein	0.15	0.043
+transgenic mouse	4501_d28	28	brain	protein	0.075	0.0475
+transgenic mouse	4502_d28	28	brain	protein	0.075	0.0767
+transgenic mouse	4503_d28	28	brain	protein	0.075	0.0551
+transgenic mouse	4504_d28	28	brain	protein	0.075	0.1528
+transgenic mouse	5501_d28	28	brain	protein	0.0375	0.1479
+transgenic mouse	5502_d28	28	brain	protein	0.0375	0.5011
+transgenic mouse	5503_d28	28	brain	protein	0.0375	0.13
+transgenic mouse	5504_d28	28	brain	protein	0.0375	0.1041
+transgenic mouse	1501_d84	84	brain	mRNA	0	1.078
+transgenic mouse	1502_d84	84	brain	mRNA	0	0.966
+transgenic mouse	1503_d84	84	brain	mRNA	0	0.956
+transgenic mouse	2501_d84	84	brain	mRNA	0.3	0.075
+transgenic mouse	2502_d84	84	brain	mRNA	0.3	0.032
+transgenic mouse	2503_d84	84	brain	mRNA	0.3	0.127
+transgenic mouse	2504_d84	84	brain	mRNA	0.3	0.027
+transgenic mouse	1501_d84	84	brain	protein	0	1.064
+transgenic mouse	1502_d84	84	brain	protein	0	1.053
+transgenic mouse	1503_d84	84	brain	protein	0	0.893
+transgenic mouse	2501_d84	84	brain	protein	0.3	0.108
+transgenic mouse	2502_d84	84	brain	protein	0.3	0.082
+transgenic mouse	2503_d84	84	brain	protein	0.3	0.239
+transgenic mouse	2504_d84	84	brain	protein	0.3	0.059

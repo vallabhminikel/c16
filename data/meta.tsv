@@ -1,0 +1,48 @@
+cohort	disp	exclude	color	lty
+A-60-aCSF	aCSF	FALSE	#E04006	1
+A-60-sirnaA	siRNA A (active)	FALSE	#003366	1
+A-60-sirnaB	siRNA B (non-targeting)	FALSE	#FF6103	1
+A-140-aCSF	aCSF	FALSE	#E04006	1
+A-died	exclude	TRUE	#000000	1
+A-140-sirnaA	siRNA A (active)	FALSE	#003366	1
+A-140-sirnaB	siRNA B (non-targeting)	FALSE	#FF6103	1
+A-uninoc	uninoculated	FALSE	#A9A9A9	3
+S-Fu1-PBS	WT Fukuoka-1 terminal	FALSE	#0001CD	1
+YA-50-once	late 50 ug once	FALSE	#78C679	1
+YA-300-once	late 300 ug once	FALSE	#006837	1
+YA-died	exclude	TRUE	#000000	1
+YA-150-once	late 150 ug once	FALSE	#31A354	1
+YA-0-once	aCSF	FALSE	#E04006	1
+YA-uninoc	uninoculated	FALSE	#A9A9A9	3
+YA-300-chronic	late chronic 300 ug	FALSE	#AAAAFF	1
+AF-WT-siRNAA	WT siRNA A	FALSE	#003366	1
+AF-died	AF-died	TRUE	#000000	1
+AF-WT-NoTx	WT untreated	FALSE	#797979	1
+AF-HET-NoTx	Het KO untreated	FALSE	#993399	1
+AR-untreated-60	60 dpi untreated	FALSE	#E04006	1
+AR-died	AR-died	TRUE	#000000	1
+AR-untreated-120	120 dpi untreated	FALSE	#E04006	1
+AR-treated-120	120 dpi siRNA A	FALSE	#003366	1
+AR-treated-210	210 dpi siRNA A	FALSE	#003366	1
+QS-het-RML-150	QS-het-RML-150	FALSE	#AB23AB	1
+QS-het-RML-60	QS-het-RML-60	FALSE	#AB23AB	1
+QS-het-RML-90	QS-het-RML-90	FALSE	#AB23AB	1
+QS-het-RML-120	QS-het-RML-120	FALSE	#AB23AB	1
+QS-het-RML-	QS-het-RML-	FALSE	#AB23AB	1
+QS-het-RML-240	QS-het-RML-240	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-150	QS-het-Fukuoka-1-150	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-	QS-het-Fukuoka-1-	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-90	QS-het-Fukuoka-1-90	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-120	QS-het-Fukuoka-1-120	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-60	QS-het-Fukuoka-1-60	FALSE	#AB23AB	1
+QS-het-Fukuoka-1-240	QS-het-Fukuoka-1-240	FALSE	#AB23AB	1
+QS-WT-RML-120	QS-WT-RML-120	FALSE	#0001CD	1
+QS-WT-RML-60	QS-WT-RML-60	FALSE	#0001CD	1
+QS-WT-RML-	QS-WT-RML-	FALSE	#0001CD	1
+QS-WT-Fukuoka-1-60	QS-WT-Fukuoka-1-60	FALSE	#0001CD	1
+QS---	QS---	TRUE	#000000	1
+QS-WT-Fukuoka-1-90	QS-WT-Fukuoka-1-90	FALSE	#0001CD	1
+QS-WT-Fukuoka-1-120	QS-WT-Fukuoka-1-120	FALSE	#0001CD	1
+QS-WT-RML-90	QS-WT-RML-90	FALSE	#0001CD	1
+QS-WT-RML-150	QS-WT-RML-150	FALSE	#0001CD	1
+QS-WT-Fukuoka-1-150	QS-WT-Fukuoka-1-150	FALSE	#0001CD	1

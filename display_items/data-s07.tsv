@@ -1,0 +1,5 @@
+cohort	disp	records	n_start	events	median	x0_95lcl	x0_95ucl
+A-60-aCSF	aCSF	8	8	8	165	163	
+A-60-sirnaA	siRNA A (active)	8	8	3		370	
+A-60-sirnaB	siRNA B (non-targeting)	8	8	8	155.5	154	
+A-uninoc	uninoculated	4	4	2	350	250	

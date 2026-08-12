@@ -1,0 +1,4 @@
+cohort	disp	records	n_start	events	median	x0_95lcl	x0_95ucl
+AF-HET-NoTx	Het KO untreated	7	7	7	273	268	
+AF-WT-NoTx	WT untreated	11	11	11	181	174	
+AF-WT-siRNAA	WT siRNA A	11	11	1			

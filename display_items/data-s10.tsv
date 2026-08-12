@@ -1,0 +1,322 @@
+cohort	disp	nestdpi	n	l95	u95	mean
+A-60-aCSF	aCSF	89	2	2	2	2
+A-60-aCSF	aCSF	96	2	2	2	2
+A-60-aCSF	aCSF	103	2	2	2	2
+A-60-aCSF	aCSF	110	2	2	2	2
+A-60-aCSF	aCSF	117	2	2	2	2
+A-60-aCSF	aCSF	122	2	2	2	2
+A-60-aCSF	aCSF	124	2	2	2	2
+A-60-aCSF	aCSF	129	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-aCSF	aCSF	131	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-aCSF	aCSF	133	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-aCSF	aCSF	136	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-aCSF	aCSF	138	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-aCSF	aCSF	143	2	0.13000450193249333	0.6199954980675066	0.375
+A-60-aCSF	aCSF	145	2	-0.10998649420251994	1.35998649420252	0.625
+A-60-aCSF	aCSF	147	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-aCSF	aCSF	150	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-aCSF	aCSF	154	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-aCSF	aCSF	157	2	-0.23999099613501335	0.7399909961350133	0.25
+A-60-aCSF	aCSF	159	2	-0.23999099613501335	0.7399909961350133	0.25
+A-60-aCSF	aCSF	161	2	-0.23999099613501335	0.7399909961350133	0.25
+A-60-aCSF	aCSF	164	2	-0.23999099613501335	0.7399909961350133	0.25
+A-60-aCSF	aCSF	166	2	-0.23999099613501335	0.7399909961350133	0.25
+A-60-aCSF	aCSF	173	1			0.5
+A-60-aCSF	aCSF	175	1			0.5
+A-60-aCSF	aCSF	178	1			0.5
+A-60-sirnaA	siRNA A (active)	89	2	2	2	2
+A-60-sirnaA	siRNA A (active)	96	2	2	2	2
+A-60-sirnaA	siRNA A (active)	103	2	2	2	2
+A-60-sirnaA	siRNA A (active)	110	2	2	2	2
+A-60-sirnaA	siRNA A (active)	117	2	2	2	2
+A-60-sirnaA	siRNA A (active)	122	2	2	2	2
+A-60-sirnaA	siRNA A (active)	124	2	2	2	2
+A-60-sirnaA	siRNA A (active)	129	2	-0.21997298840503987	2.71997298840504	1.25
+A-60-sirnaA	siRNA A (active)	131	2	2	2	2
+A-60-sirnaA	siRNA A (active)	133	2	2	2	2
+A-60-sirnaA	siRNA A (active)	136	2	2	2	2
+A-60-sirnaA	siRNA A (active)	138	2	2	2	2
+A-60-sirnaA	siRNA A (active)	143	2	2	2	2
+A-60-sirnaA	siRNA A (active)	145	2	2	2	2
+A-60-sirnaA	siRNA A (active)	147	2	2	2	2
+A-60-sirnaA	siRNA A (active)	150	2	2	2	2
+A-60-sirnaA	siRNA A (active)	154	2	2	2	2
+A-60-sirnaA	siRNA A (active)	157	2	2	2	2
+A-60-sirnaA	siRNA A (active)	159	2	2	2	2
+A-60-sirnaA	siRNA A (active)	161	2	2	2	2
+A-60-sirnaA	siRNA A (active)	164	2	2	2	2
+A-60-sirnaA	siRNA A (active)	166	2	2	2	2
+A-60-sirnaA	siRNA A (active)	173	2	2	2	2
+A-60-sirnaA	siRNA A (active)	175	2	2	2	2
+A-60-sirnaA	siRNA A (active)	178	2	2	2	2
+A-60-sirnaA	siRNA A (active)	180	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	182	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	185	2	2	2	2
+A-60-sirnaA	siRNA A (active)	187	2	2	2	2
+A-60-sirnaA	siRNA A (active)	192	2	2	2	2
+A-60-sirnaA	siRNA A (active)	194	2	2	2	2
+A-60-sirnaA	siRNA A (active)	196	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	199	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	201	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	203	2	1	1	1
+A-60-sirnaA	siRNA A (active)	206	2	2	2	2
+A-60-sirnaA	siRNA A (active)	208	2	2	2	2
+A-60-sirnaA	siRNA A (active)	210	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	220	2	2	2	2
+A-60-sirnaA	siRNA A (active)	222	2	2	2	2
+A-60-sirnaA	siRNA A (active)	227	2	2	2	2
+A-60-sirnaA	siRNA A (active)	229	2	2	2	2
+A-60-sirnaA	siRNA A (active)	231	2	2	2	2
+A-60-sirnaA	siRNA A (active)	234	2	2	2	2
+A-60-sirnaA	siRNA A (active)	241	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	243	2	2	2	2
+A-60-sirnaA	siRNA A (active)	245	2	2	2	2
+A-60-sirnaA	siRNA A (active)	248	2	2	2	2
+A-60-sirnaA	siRNA A (active)	250	2	2	2	2
+A-60-sirnaA	siRNA A (active)	255	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	257	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	259	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	262	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	264	2	2	2	2
+A-60-sirnaA	siRNA A (active)	266	2	2	2	2
+A-60-sirnaA	siRNA A (active)	269	2	0.7600090038649867	1.7399909961350133	1.25
+A-60-sirnaA	siRNA A (active)	271	2	2	2	2
+A-60-sirnaA	siRNA A (active)	273	2	2	2	2
+A-60-sirnaA	siRNA A (active)	276	4	2	2	2
+A-60-sirnaA	siRNA A (active)	280	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	283	2	2	2	2
+A-60-sirnaA	siRNA A (active)	285	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	290	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	292	2	2	2	2
+A-60-sirnaA	siRNA A (active)	297	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	299	2	0.8900135057974801	2.35998649420252	1.625
+A-60-sirnaA	siRNA A (active)	301	2	0.8900135057974801	2.35998649420252	1.625
+A-60-sirnaA	siRNA A (active)	304	2	2	2	2
+A-60-sirnaA	siRNA A (active)	306	2	2	2	2
+A-60-sirnaA	siRNA A (active)	311	2	2	2	2
+A-60-sirnaA	siRNA A (active)	313	2	2	2	2
+A-60-sirnaA	siRNA A (active)	318	2	2	2	2
+A-60-sirnaA	siRNA A (active)	320	2	2	2	2
+A-60-sirnaA	siRNA A (active)	322	2	2	2	2
+A-60-sirnaA	siRNA A (active)	325	2	2	2	2
+A-60-sirnaA	siRNA A (active)	327	2	2	2	2
+A-60-sirnaA	siRNA A (active)	329	2	2	2	2
+A-60-sirnaA	siRNA A (active)	332	2	2	2	2
+A-60-sirnaA	siRNA A (active)	334	2	2	2	2
+A-60-sirnaA	siRNA A (active)	337	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	340	2	-0.21997298840503987	2.71997298840504	1.25
+A-60-sirnaA	siRNA A (active)	341	2	1.6300045019324934	2.1199954980675066	1.875
+A-60-sirnaA	siRNA A (active)	343	2	2	2	2
+A-60-sirnaA	siRNA A (active)	346	2	2	2	2
+A-60-sirnaA	siRNA A (active)	348	2	2	2	2
+A-60-sirnaA	siRNA A (active)	353	2	-0.21997298840503987	2.71997298840504	1.25
+A-60-sirnaA	siRNA A (active)	355	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	357	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	360	2	1.2600090038649867	2.2399909961350133	1.75
+A-60-sirnaA	siRNA A (active)	362	2	1.6300045019324934	2.1199954980675066	1.875
+A-60-sirnaA	siRNA A (active)	367	2	1.6300045019324934	2.1199954980675066	1.875
+A-60-sirnaA	siRNA A (active)	369	2	2	2	2
+A-60-sirnaA	siRNA A (active)	371	2	2	2	2
+A-60-sirnaA	siRNA A (active)	374	2	2	2	2
+A-60-sirnaA	siRNA A (active)	376	2	2	2	2
+A-60-sirnaA	siRNA A (active)	381	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	383	2	1	1	1
+A-60-sirnaA	siRNA A (active)	385	2	1.1300045019324934	1.6199954980675066	1.375
+A-60-sirnaA	siRNA A (active)	390	2	0.8900135057974801	2.35998649420252	1.625
+A-60-sirnaA	siRNA A (active)	392	2	0.8800045019324934	1.3699954980675066	1.125
+A-60-sirnaA	siRNA A (active)	395	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	397	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-sirnaA	siRNA A (active)	399	2	0.6300045019324934	1.1199954980675066	0.875
+A-60-sirnaA	siRNA A (active)	402	2	0.5200180077299733	2.4799819922700266	1.5
+A-60-sirnaA	siRNA A (active)	404	2	2	2	2
+A-60-sirnaA	siRNA A (active)	409	2	0.13000450193249333	0.6199954980675066	0.375
+A-60-sirnaA	siRNA A (active)	411	2	0.13000450193249333	0.6199954980675066	0.375
+A-60-sirnaA	siRNA A (active)	416	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	418	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	423	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	425	2	0.6300045019324934	1.1199954980675066	0.875
+A-60-sirnaA	siRNA A (active)	427	2	0.6300045019324934	1.1199954980675066	0.875
+A-60-sirnaA	siRNA A (active)	432	2	1.25	1.25	1.25
+A-60-sirnaA	siRNA A (active)	437	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-sirnaA	siRNA A (active)	439	2	-0.21997298840503987	2.71997298840504	1.25
+A-60-sirnaA	siRNA A (active)	441	2	-0.21997298840503987	2.71997298840504	1.25
+A-60-sirnaA	siRNA A (active)	446	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-sirnaA	siRNA A (active)	453	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	455	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	458	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	460	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	462	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-sirnaA	siRNA A (active)	467	2	0.14001350579748006	1.60998649420252	0.875
+A-60-sirnaA	siRNA A (active)	469	2	0.39001350579748006	1.85998649420252	1.125
+A-60-sirnaA	siRNA A (active)	472	2	0.39001350579748006	1.85998649420252	1.125
+A-60-sirnaA	siRNA A (active)	474	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-sirnaA	siRNA A (active)	481	2	0.25	0.25	0.25
+A-60-sirnaA	siRNA A (active)	483	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-sirnaA	siRNA A (active)	486	2	0.25	0.25	0.25
+A-60-sirnaA	siRNA A (active)	488	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	490	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	493	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	495	2	0.5	0.5	0.5
+A-60-sirnaA	siRNA A (active)	497	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)	500	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaA	siRNA A (active)		2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	89	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	96	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	103	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	110	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	117	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	122	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	124	2	2	2	2
+A-60-sirnaB	siRNA B (non-targeting)	129	2	-0.9499549806750669	3.949954980675067	1.5
+A-60-sirnaB	siRNA B (non-targeting)	131	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaB	siRNA B (non-targeting)	133	2	0.38000450193249335	0.8699954980675066	0.625
+A-60-sirnaB	siRNA B (non-targeting)	136	2	0.26000900386498665	1.2399909961350133	0.75
+A-60-sirnaB	siRNA B (non-targeting)	138	2	0.15002250966246655	2.5999774903375332	1.375
+A-60-sirnaB	siRNA B (non-targeting)	143	2	0.13000450193249333	0.6199954980675066	0.375
+A-60-sirnaB	siRNA B (non-targeting)	145	2	0.010009003864986654	0.9899909961350133	0.5
+A-60-sirnaB	siRNA B (non-targeting)	147	2	-0.10998649420251994	1.35998649420252	0.625
+A-60-sirnaB	siRNA B (non-targeting)	150	2	-0.10998649420251994	1.35998649420252	0.625
+A-60-sirnaB	siRNA B (non-targeting)	154	2	-0.2299819922700267	1.7299819922700266	0.75
+A-60-sirnaB	siRNA B (non-targeting)	157	2	-0.11999549806750667	0.36999549806750665	0.125
+A-60-sirnaB	siRNA B (non-targeting)	159	1			0.25
+A-60-sirnaB	siRNA B (non-targeting)	161	1			0.25
+A-60-sirnaB	siRNA B (non-targeting)	164	1			0.25
+A-60-sirnaB	siRNA B (non-targeting)	166	1			0.5
+A-60-sirnaB	siRNA B (non-targeting)	173	1			0.25
+A-60-sirnaB	siRNA B (non-targeting)	175	1			0.25
+A-uninoc	uninoculated	89	1			2
+A-uninoc	uninoculated	96	1			2
+A-uninoc	uninoculated	103	1			2
+A-uninoc	uninoculated	110	1			2
+A-uninoc	uninoculated	117	1			2
+A-uninoc	uninoculated	122	1			2
+A-uninoc	uninoculated	124	1			2
+A-uninoc	uninoculated	129	1			2
+A-uninoc	uninoculated	131	1			2
+A-uninoc	uninoculated	133	1			2
+A-uninoc	uninoculated	136	1			2
+A-uninoc	uninoculated	138	1			2
+A-uninoc	uninoculated	143	1			2
+A-uninoc	uninoculated	145	1			2
+A-uninoc	uninoculated	147	1			2
+A-uninoc	uninoculated	150	1			2
+A-uninoc	uninoculated	154	1			2
+A-uninoc	uninoculated	157	1			2
+A-uninoc	uninoculated	159	1			2
+A-uninoc	uninoculated	161	1			2
+A-uninoc	uninoculated	164	1			2
+A-uninoc	uninoculated	166	1			2
+A-uninoc	uninoculated	173	1			2
+A-uninoc	uninoculated	175	1			2
+A-uninoc	uninoculated	178	1			2
+A-uninoc	uninoculated	180	1			2
+A-uninoc	uninoculated	182	1			2
+A-uninoc	uninoculated	185	1			2
+A-uninoc	uninoculated	187	1			2
+A-uninoc	uninoculated	192	1			2
+A-uninoc	uninoculated	194	1			2
+A-uninoc	uninoculated	196	1			2
+A-uninoc	uninoculated	199	1			2
+A-uninoc	uninoculated	201	1			2
+A-uninoc	uninoculated	203	1			1.5
+A-uninoc	uninoculated	206	1			2
+A-uninoc	uninoculated	208	1			2
+A-uninoc	uninoculated	210	1			2
+A-uninoc	uninoculated	220	1			2
+A-uninoc	uninoculated	222	1			2
+A-uninoc	uninoculated	227	1			2
+A-uninoc	uninoculated	229	1			2
+A-uninoc	uninoculated	231	1			2
+A-uninoc	uninoculated	234	1			2
+A-uninoc	uninoculated	241	1			2
+A-uninoc	uninoculated	243	1			2
+A-uninoc	uninoculated	245	1			2
+A-uninoc	uninoculated	248	1			2
+A-uninoc	uninoculated	250	1			2
+A-uninoc	uninoculated	255	1			2
+A-uninoc	uninoculated	257	1			2
+A-uninoc	uninoculated	259	1			2
+A-uninoc	uninoculated	262	1			2
+A-uninoc	uninoculated	264	1			2
+A-uninoc	uninoculated	266	1			2
+A-uninoc	uninoculated	269	1			2
+A-uninoc	uninoculated	271	1			2
+A-uninoc	uninoculated	273	1			2
+A-uninoc	uninoculated	276	2	2	2	2
+A-uninoc	uninoculated	280	1			2
+A-uninoc	uninoculated	283	1			2
+A-uninoc	uninoculated	285	1			2
+A-uninoc	uninoculated	290	1			2
+A-uninoc	uninoculated	292	1			2
+A-uninoc	uninoculated	297	1			2
+A-uninoc	uninoculated	299	1			2
+A-uninoc	uninoculated	301	1			2
+A-uninoc	uninoculated	304	1			2
+A-uninoc	uninoculated	306	1			2
+A-uninoc	uninoculated	311	1			2
+A-uninoc	uninoculated	313	1			2
+A-uninoc	uninoculated	318	1			2
+A-uninoc	uninoculated	320	1			2
+A-uninoc	uninoculated	322	1			2
+A-uninoc	uninoculated	325	1			2
+A-uninoc	uninoculated	327	1			2
+A-uninoc	uninoculated	329	1			2
+A-uninoc	uninoculated	332	1			2
+A-uninoc	uninoculated	334	1			2
+A-uninoc	uninoculated	337	1			2
+A-uninoc	uninoculated	340	1			2
+A-uninoc	uninoculated	341	1			2
+A-uninoc	uninoculated	343	1			2
+A-uninoc	uninoculated	346	1			2
+A-uninoc	uninoculated	348	1			2
+A-uninoc	uninoculated	353	1			2
+A-uninoc	uninoculated	355	1			2
+A-uninoc	uninoculated	357	1			2
+A-uninoc	uninoculated	360	1			2
+A-uninoc	uninoculated	362	1			2
+A-uninoc	uninoculated	367	1			2
+A-uninoc	uninoculated	369	1			2
+A-uninoc	uninoculated	371	1			2
+A-uninoc	uninoculated	374	1			2
+A-uninoc	uninoculated	376	1			2
+A-uninoc	uninoculated	381	1			1.5
+A-uninoc	uninoculated	383	1			2
+A-uninoc	uninoculated	385	1			2
+A-uninoc	uninoculated	390	1			2
+A-uninoc	uninoculated	392	1			2
+A-uninoc	uninoculated	395	1			2
+A-uninoc	uninoculated	397	1			2
+A-uninoc	uninoculated	399	1			2
+A-uninoc	uninoculated	402	1			2
+A-uninoc	uninoculated	404	1			2
+A-uninoc	uninoculated	409	1			2
+A-uninoc	uninoculated	411	1			2
+A-uninoc	uninoculated	416	1			2
+A-uninoc	uninoculated	418	1			2
+A-uninoc	uninoculated	423	1			2
+A-uninoc	uninoculated	425	1			2
+A-uninoc	uninoculated	427	1			2
+A-uninoc	uninoculated	432	1			2
+A-uninoc	uninoculated	437	1			2
+A-uninoc	uninoculated	439	1			2
+A-uninoc	uninoculated	441	1			2
+A-uninoc	uninoculated	446	1			2
+A-uninoc	uninoculated	453	1			2
+A-uninoc	uninoculated	455	1			2
+A-uninoc	uninoculated	458	1			2
+A-uninoc	uninoculated	460	1			2
+A-uninoc	uninoculated	462	1			2
+A-uninoc	uninoculated	467	1			2
+A-uninoc	uninoculated	469	1			2
+A-uninoc	uninoculated	472	1			2
+A-uninoc	uninoculated	474	1			2
+A-uninoc	uninoculated	481	1			2
+A-uninoc	uninoculated	483	1			2
+A-uninoc	uninoculated	486	1			2
+A-uninoc	uninoculated	488	1			2
+A-uninoc	uninoculated	490	1			2
+A-uninoc	uninoculated	493	1			2
+A-uninoc	uninoculated	495	1			2
+A-uninoc	uninoculated	497	1			2
+A-uninoc	uninoculated	500	1			2
+A-uninoc	uninoculated		1			2
