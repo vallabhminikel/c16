@@ -1002,6 +1002,60 @@ if ('figure-2'=='figure-2') {
 }
 
 
+## Figure S2.  ####
+tell_user('done.\nCreating Figure S2...')
+if ('figure-s2'=='figure-s2') {
+
+  resx=300
+  png('display_items/figure-s2.png',width=6.5*resx,height=4.5*resx,res=resx)
+
+  layout_matrix = matrix(c(1,2), nrow=1, byrow=T)
+  layout(layout_matrix)
+
+  panel = 1
+
+  ### A. YA weights ####
+  par(mar=c(3,4,3,1))
+  nw = norm_wts(weights_raw=weights,
+                baseline_dpi=c(75,77),
+                main_tbl = survdata %>% filter(expt=='YA'),
+                meta_tbl = meta %>% filter(!exclude))
+  ya_wt_ylims = c(-0.3, 0.6)
+  ya_wt_yats = seq(-0.3, 0.6, 0.1)
+  plot_wts(nw, anno_dpi=ya_126_surgeries, ylims=ya_wt_ylims, yats=ya_wt_yats, show_legend=F)
+  leg = meta %>% filter(grepl('^YA',cohort) & !exclude)
+  disp_order = c('aCSF','late 50 ug once','late 150 ug once','late 300 ug once','late chronic 300 ug','uninoculated')
+  leg = leg[match(disp_order, leg$disp),]
+  legend(x=0, y=0.5, bty='n', cex=.7, lwd=2, legend=leg$disp,
+         col=leg$color, lty=leg$lty,
+         text.col=leg$color)
+  mtext(LETTERS[panel], side=3, cex=1.5, adj = -0.11, line = 0.5); panel = panel + 1
+  mtext(side=3, line=1, text='weights', cex=0.8)
+
+  write_supp_table(nw[[2]] %>% ungroup() %>% select(-color,-lty), 'Summary of weight change for RML 126 dpi symptomatic treatment (Figure S2A).')
+
+  ### B. YA nests ####
+  nn = norm_nests(nests,
+                  main_tbl = survdata %>% filter(expt=='YA'))
+  par(mar=c(3,4,3,1))
+  plot_nests(nn, anno_dpi=ya_126_surgeries, show_legend=F)
+  mtext(LETTERS[panel], side=3, cex=1.5, adj = -0.11, line = 0.5); panel = panel + 1
+  mtext(side=3, line=1, text='nests', cex=0.8)
+
+  nn %>% 
+    mutate(approx_dpi = case_when(cage %in% c('YAJ','YAU')  ~ nestdpi + 5,
+                                  TRUE ~ nestdpi)) %>%
+    # above code handles the fact that inoc dates are staggered 5 days so 
+    # they don't group properly and you get zigzag effects. note this issue
+    # does not affect the plot because that is gaussian smoothed anyway
+    group_by(cohort, disp, approx_dpi) %>%
+    summarize(.groups='keep', n=n(), mean=mean(mean), l95=lower(mean), u95=upper(mean)) %>%
+    ungroup() -> nest_smry_ya
+  write_supp_table(nest_smry_ya, 'Summary of nest scores for RML 126 dpi symptomatic treatment (Figure S2B).')
+
+  silence_is_golden = dev.off()
+}
+### end Figure S2 ####
 
 
 
@@ -1478,7 +1532,7 @@ if ('figure-6'=='figure-6') {
   mtext(side=2, line=2.6, text=expression(residual~italic(Prnp)), cex=0.7)
   abline(h=1, lty=2)
   segments(x0=panel_a_smry$x-mouse_barwidth, x1=panel_a_smry$x+mouse_barwidth, y0=panel_a_smry$mean, col=panel_a_smry$color, lwd=2)
-  arrows(x0=panel_a_smry$x, y0=panel_a_smry$l95, y1=panel_a_smry$u95, code=3, angle=90, length=0.05, col=panel_a_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_a_smry$x, y0=panel_a_smry$l95, y1=panel_a_smry$u95, code=3, angle=90, length=0.05, col=panel_a_smry$color, lwd=1.5))
   set.seed(1)
   points(jitter(panel_a_data$x, amount=0.15), panel_a_data$residual, pch=21, col=panel_a_data$color, bg='#FFFFFF')
   mtext(side=3, line=0.5, text='mRNA', cex=0.7)
@@ -1508,7 +1562,7 @@ if ('figure-6'=='figure-6') {
   mtext(side=2, line=2.6, text='residual PrP', cex=0.7)
   abline(h=1, lty=2)
   segments(x0=panel_b_smry$x-mouse_barwidth, x1=panel_b_smry$x+mouse_barwidth, y0=panel_b_smry$mean, col=panel_b_smry$color, lwd=2)
-  arrows(x0=panel_b_smry$x, y0=panel_b_smry$l95, y1=panel_b_smry$u95, code=3, angle=90, length=0.05, col=panel_b_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_b_smry$x, y0=panel_b_smry$l95, y1=panel_b_smry$u95, code=3, angle=90, length=0.05, col=panel_b_smry$color, lwd=1.5))
   set.seed(1)
   points(jitter(panel_b_data$x, amount=0.15), panel_b_data$residual, pch=21, col=panel_b_data$color, bg='#FFFFFF')
   mtext(side=3, line=0.5, text='PrP', cex=0.7)
@@ -1549,8 +1603,8 @@ if ('figure-6'=='figure-6') {
   mtext(side=2, line=1.7, text='% residual PrP', cex=0.7)
   abline(h=1, lty=2)
   abline(v=1, lty=3)
-  arrows(x0=panel_c_smry$mrna_l95, x1=panel_c_smry$mrna_u95, y0=panel_c_smry$prot_mean, code=3, angle=90, length=0.02, lwd=1.5, col=panel_c_smry$color)
-  arrows(x0=panel_c_smry$mrna_mean, y0=panel_c_smry$prot_l95, y1=panel_c_smry$prot_u95, code=3, angle=90, length=0.02, lwd=1.5, col=panel_c_smry$color)
+  suppressWarnings(arrows(x0=panel_c_smry$mrna_l95, x1=panel_c_smry$mrna_u95, y0=panel_c_smry$prot_mean, code=3, angle=90, length=0.02, lwd=1.5, col=panel_c_smry$color))
+  suppressWarnings(arrows(x0=panel_c_smry$mrna_mean, y0=panel_c_smry$prot_l95, y1=panel_c_smry$prot_u95, code=3, angle=90, length=0.02, lwd=1.5, col=panel_c_smry$color))
   par(xpd=T)
   text(x=panel_c_smry$mrna_mean*0.5, y=panel_c_smry$prot_mean*1.6, srt=-45, labels=paste0(panel_c_smry$dose_disp,' µg'), col=panel_c_smry$color, cex=0.6)
   par(xpd=F)
@@ -1588,7 +1642,7 @@ if ('figure-6'=='figure-6') {
     subs = panel_d_smry %>% filter(dose_mg==this_dose) %>% arrange(days_post_dose)
     points(subs$days_post_dose, subs$mean, type='l', col=subs$color[1], lwd=1.5)
   }
-  arrows(x0=panel_d_smry$days_post_dose, y0=panel_d_smry$l95, y1=panel_d_smry$u95, code=3, angle=90, length=0.04, col=panel_d_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_d_smry$days_post_dose, y0=panel_d_smry$l95, y1=panel_d_smry$u95, code=3, angle=90, length=0.04, col=panel_d_smry$color, lwd=1.5))
   points(panel_d_smry$days_post_dose, panel_d_smry$mean, pch=19, col=panel_d_smry$color, cex=0.9)
   set.seed(1)
   points(jitter(panel_d_data$days_post_dose, amount=2), panel_d_data$residual, pch=21, col=panel_d_data$color, bg='#FFFFFF')
@@ -1625,7 +1679,7 @@ if ('figure-6'=='figure-6') {
     subs = panel_e_smry %>% filter(dose_mg==this_dose) %>% arrange(days_post_dose)
     points(subs$days_post_dose, subs$mean, type='l', col=subs$color[1], lwd=1.5)
   }
-  arrows(x0=panel_e_smry$days_post_dose, y0=panel_e_smry$l95, y1=panel_e_smry$u95, code=3, angle=90, length=0.04, col=panel_e_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_e_smry$days_post_dose, y0=panel_e_smry$l95, y1=panel_e_smry$u95, code=3, angle=90, length=0.04, col=panel_e_smry$color, lwd=1.5))
   points(panel_e_smry$days_post_dose, panel_e_smry$mean, pch=19, col=panel_e_smry$color, cex=0.9)
   set.seed(1)
   points(jitter(panel_e_data$days_post_dose, amount=2), panel_e_data$residual, pch=21, col=panel_e_data$color, bg='#FFFFFF')
@@ -1664,7 +1718,7 @@ if ('figure-6'=='figure-6') {
     subs = panel_f_smry %>% filter(dose_mg==this_dose) %>% arrange(days_post_dose)
     points(subs$days_post_dose, subs$mean, type='l', col=subs$color[1], lwd=1.5)
   }
-  arrows(x0=panel_f_smry$days_post_dose, y0=panel_f_smry$l95, y1=panel_f_smry$u95, code=3, angle=90, length=0.03, col=panel_f_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_f_smry$days_post_dose, y0=panel_f_smry$l95, y1=panel_f_smry$u95, code=3, angle=90, length=0.03, col=panel_f_smry$color, lwd=1.5))
   points(panel_f_smry$days_post_dose, panel_f_smry$mean, pch=19, col=panel_f_smry$color, cex=0.9)
   set.seed(1)
   points(jitter(panel_f_data$days_post_dose, amount=1.5), panel_f_data$residual, pch=21, col=panel_f_data$color, bg='#FFFFFF', cex=0.7)
@@ -1703,7 +1757,7 @@ if ('figure-6'=='figure-6') {
   mtext(side=2, line=2.6, text=expression(residual~italic(Prnp)), cex=0.7)
   abline(h=1, lty=2)
   segments(x0=panel_g_smry$x-nhp_tissue_barwidth, x1=panel_g_smry$x+nhp_tissue_barwidth, y0=panel_g_smry$mean, col=panel_g_smry$color, lwd=2)
-  arrows(x0=panel_g_smry$x, y0=panel_g_smry$l95, y1=panel_g_smry$u95, code=3, angle=90, length=0.03, col=panel_g_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_g_smry$x, y0=panel_g_smry$l95, y1=panel_g_smry$u95, code=3, angle=90, length=0.03, col=panel_g_smry$color, lwd=1.5))
   set.seed(1)
   points(jitter(panel_g_data$x, amount=0.05), panel_g_data$residual, pch=21, col=panel_g_data$color, bg='#FFFFFF', cex=0.7)
   legend('topright', nhp_dose_meta$dose_disp, col=nhp_dose_meta$color, pch=21, pt.bg='#FFFFFF', pt.lwd=1.5, bty='n', cex=0.55)
@@ -1736,7 +1790,7 @@ if ('figure-6'=='figure-6') {
   mtext(side=2, line=1.75, text='residual PrP', cex=0.7)
   abline(h=1, lty=2)
   segments(x0=panel_h_smry$x-nhp_tissue_barwidth, x1=panel_h_smry$x+nhp_tissue_barwidth, y0=panel_h_smry$mean, col=panel_h_smry$color, lwd=2)
-  arrows(x0=panel_h_smry$x, y0=panel_h_smry$l95, y1=panel_h_smry$u95, code=3, angle=90, length=0.03, col=panel_h_smry$color, lwd=1.5)
+  suppressWarnings(arrows(x0=panel_h_smry$x, y0=panel_h_smry$l95, y1=panel_h_smry$u95, code=3, angle=90, length=0.03, col=panel_h_smry$color, lwd=1.5))
   set.seed(1)
   points(jitter(panel_h_data$x, amount=0.05), panel_h_data$residual, pch=21, col=panel_h_data$color, bg='#FFFFFF', cex=0.7)
   legend('topright', nhp_dose_meta$dose_disp, col=nhp_dose_meta$color, pch=21, pt.bg='#FFFFFF', pt.lwd=1.5, bty='n', cex=0.55)
