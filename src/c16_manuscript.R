@@ -997,7 +997,12 @@ if ('figure-2'=='figure-2') {
 
   write_supp_table(sf_table(sf), 'Survival summary for RML 126 dpi symptomatic treatment (Figure 2H).')
 
-
+  ya_overall_sdiff   = make_sv(survdata %>% filter(expt=='YA'))
+  sv_pval(ya_overall_sdiff)
+  ya_050_once_sdiff  = make_sv(survdata %>% filter(expt=='YA', disp %in% c('aCSF', 'late 50 ug once')))
+  ya_150_once_sdiff  = make_sv(survdata %>% filter(expt=='YA', disp %in% c('aCSF', 'late 150 ug once')))
+  ya_300_once_sdiff  = make_sv(survdata %>% filter(expt=='YA', disp %in% c('aCSF', 'late 300 ug once')))
+  ya_300_chron_sdiff = make_sv(survdata %>% filter(expt=='YA', disp %in% c('aCSF', 'late chronic 300 ug')))
   silence_is_golden = dev.off()
 }
 
